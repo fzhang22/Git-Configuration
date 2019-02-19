@@ -1,5 +1,3 @@
 # demo project README
 
-this is a simple readme file
-
-"This is cause to trouble"
+This demo is made for the purpose of learning Github features.
