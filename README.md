@@ -10,6 +10,6 @@
 4. [Git repository](git-repository.md)
 5. [Generating SSH key](generating-ssh-key.md)
 6. [Git branch commands](git-branch-commands.md)
-7. Git tag
+7. [Git tag](git-tag.md)
 8. Social coding 
 
