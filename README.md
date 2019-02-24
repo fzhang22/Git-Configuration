@@ -1,6 +1,6 @@
-## Demo Project
+## Git Configuration
 
-**This demo is for the purpose of learnig Github features.**
+**This document is for the purpose of learnig Github features.**
 
 
 ### Index
