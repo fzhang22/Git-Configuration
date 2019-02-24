@@ -4,7 +4,7 @@
 
 
 ### Index
-1. [Config Git for Windows](demo/config-git-for-windows.md)
+1. [Config Git for Windows](config-git-for-windows.md)
 2. Config Git for Mac
 3. Git basic commands
 4. Git repository
