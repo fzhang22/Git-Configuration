@@ -8,7 +8,7 @@
 2. [Config Git for Mac](config-git-for-mac.md)
 3. [Git basic commands](git-basic-commands.md)
 4. [Git repository](git-repository.md)
-5. Generating SSH key
+5. [Generating SSH key](generating-ssh-key.md)
 6. Git branch commands
 7. Git tag
 8. Social coding 
